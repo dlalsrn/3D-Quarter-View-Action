@@ -58,5 +58,10 @@ https://velog.io/@lmg0052/series/Unity3D-3D-Quarter-View-Action
 - **게임 플레이 영상 링크**: https://youtu.be/937FGWdZ33I
 <br><br/>
 
+## 참고
+해당 프로젝트는 골드메탈님의 강의 영상을 참고하여 진행했음을 알립니다.
+
+https://www.youtube.com/watch?v=WkMM7Uu2AoA&list=PLO-mt5Iu5TeYkrBzWKuTCl6IUm_bA6BKy
+
 ## 연락처
 - **E-Mail**: qazzaq1541@gmail.com
