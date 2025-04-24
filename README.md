@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/37eab803-6968-40c2-a40c-44ff96753226)# 3D Quarter View Action
+# 3D Quarter View Action
 ![image](https://github.com/user-attachments/assets/e42330ba-fd17-4e7b-896e-67ae8087ab3b)
 <br><br/>
 
